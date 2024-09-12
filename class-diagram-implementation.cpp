@@ -325,5 +325,7 @@ int main()
         }
     } while (exit == true);
 
+    cout << "Thank you for shopping in AMAZON ONLINE!" << endl;
+
     return 0;
 }
