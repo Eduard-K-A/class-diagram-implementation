@@ -225,7 +225,7 @@ int main()
                     cin >> IDproduct;
 
                    upperCaseProductID1 = getUpperCase(IDproduct);
-                    if (upperCaseProductID1 != "ABC" && upperCaseProductID1 != "DEF" && upperCaseProductID1 != "GHi" && upperCaseProductID1 != "JKL")
+                    if (upperCaseProductID1 != "ABC" && upperCaseProductID1 != "DEF" && upperCaseProductID1 != "GHI" && upperCaseProductID1 != "JKL")
                     {
                         cout << "Invalid Input. Please enter the correct product ID." << endl;
                     }
