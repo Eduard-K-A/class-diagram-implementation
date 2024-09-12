@@ -229,7 +229,7 @@ int main()
                     {
                         cout << "Invalid Input. Please enter the correct product ID." << endl;
                     }
-                } while (upperCaseProductID1 != "ABC" && upperCaseProductID1 != "DEF" && upperCaseProductID1 != "GHi" && upperCaseProductID1 != "JKL");
+                } while (upperCaseProductID1 != "ABC" && upperCaseProductID1 != "DEF" && upperCaseProductID1 != "GHI" && upperCaseProductID1 != "JKL");
 
                 string upperCaseProductID2 = getUpperCase(IDproduct);
 
